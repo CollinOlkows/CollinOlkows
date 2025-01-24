@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Collin Olkowski</h1>
-<h3 align="center">A full stake developer from the University at Buffalo</h3>
+<h3 align="center">A full stack developer from the University at Buffalo</h3>
 
 - I’m currently working on **Hardware projects**
 
