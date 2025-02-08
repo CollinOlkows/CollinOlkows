@@ -3,7 +3,7 @@
 
 - I’m currently working on **Hardware projects**
 
-- I’m currently learning **Software Security and Machine Learning**
+- I’m currently learning **Hardware integration**
 
 - All of my projects are available at [https://github.com/CollinOlkows](https://github.com/CollinOlkows)
 
