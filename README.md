@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Collin Olkowski</h1>
 <h3 align="center">A full stack developer from the University at Buffalo</h3>
 
-- I’m currently working on **Hardware projects**
+- I’m currently working on **DOYOKA**
 
 - I’m currently learning **Hardware integration**
 
-- All of my projects are available at [https://github.com/CollinOlkows](https://github.com/CollinOlkows)
-
 - 💬 Ask me about **Web Apps and Computer Security**
-
-- 📫 How to reach me **cmolkows@buffalo.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
